@@ -1,4 +1,7 @@
-
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/bora-kaya"
 - 🔭 I’m currently studying at Istanbul Technical University,Mathematics Engineering.
 - 🌱 I’m currently working as Business Intelligence Intern.
 - 👯 I’m a new data scientist.Also I like dealing with financial data, following the economic agenda and visualizing them
