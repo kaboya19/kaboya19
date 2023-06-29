@@ -10,7 +10,7 @@ and finding new approaches.
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=kaboya19&show_icons=true&theme=gradient)
 
 Languages and Tools:
-<img src="Python-logo-notext.svg.png" width="auto">
+<img src="Adsız.png" width="auto">
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width="auto">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" width="auto">
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" width="auto">
