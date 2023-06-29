@@ -6,6 +6,7 @@ and finding new approaches.
 
 - 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=kaboya19&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=kaboya19&show_icons=true&theme=radical)
+Languages and Tools:
+<img src="[gorsel-link](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png)https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="auto">
 
 
