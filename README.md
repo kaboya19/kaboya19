@@ -8,7 +8,12 @@ and finding new approaches.
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=kaboya19&show_icons=true&theme=gradient)
 
 Languages and Tools:
-[<img src="https://github.com/kaboya19/kaboya19/blob/main/Python-logo-notext.svg.png?raw=true" width="auto">](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="auto">
+<img src="gorsel-link" width="auto">
+<img src="gorsel-link" width="auto">
+<img src="gorsel-link" width="auto">
+<img src="gorsel-link" width="auto">
+<img src="gorsel-link" width="auto">
 
 
 
