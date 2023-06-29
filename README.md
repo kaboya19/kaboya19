@@ -11,11 +11,12 @@ and finding new approaches.
 
 Languages and Tools:
 <img src="Adsız.png" width="auto">
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width="auto">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" width="auto">
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" width="auto">
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" width="auto">
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" width="auto">
+<img src="1.png" width="auto">
+<img src="2.png" width="auto">
+<img src="3.png" width="auto">
+<img src="4.png" width="auto">
+<img src="5.png" width="auto">
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaboya19)](https://github.com/anuraghazra/github-readme-stats)
 
