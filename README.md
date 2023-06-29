@@ -11,11 +11,8 @@ and finding new approaches.
 
 Languages and Tools:
 
-<img src="1.png" width="auto">
-<img src="2.png" width="auto">
-<img src="3.png" width="auto">
-<img src="4.png" width="auto">
-<img src="5.png" width="auto">
+<img src="Adsız.png" width="auto">
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaboya19)](https://github.com/anuraghazra/github-readme-stats)
