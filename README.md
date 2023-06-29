@@ -1,7 +1,6 @@
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/bora-kaya"
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 - 🔭 I’m currently studying at Istanbul Technical University,Mathematics Engineering.
 - 🌱 I’m currently working as Business Intelligence Intern.
 - 👯 I’m a new data scientist.Also I like dealing with financial data, following the economic agenda and visualizing them
