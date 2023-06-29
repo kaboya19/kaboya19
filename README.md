@@ -10,7 +10,7 @@ and finding new approaches.
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=kaboya19&show_icons=true&theme=gradient)
 
 Languages and Tools:
-<img src="Adsız.png" width="auto">
+<img src="1.png" width="auto">
 <img src="1.png" width="auto">
 <img src="https://github.com/kaboya19/kaboya19/blob/main/2.png?raw=true" width="auto">
 <img src="3.png" width="auto">
