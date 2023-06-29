@@ -1,4 +1,4 @@
-[!(https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bora-kaya)
+[![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/bora-kaya)
 &nbsp;
 
 - 🔭 I’m currently studying at Istanbul Technical University,Mathematics Engineering.
