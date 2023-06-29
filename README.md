@@ -10,10 +10,15 @@ and finding new approaches.
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=kaboya19&show_icons=true&theme=gradient)
 
 Languages and Tools:
+
 <img src="1.png" width="auto">
+
 <img src="2.png" width="auto">
+
 <img src="3.png" width="auto">
+
 <img src="4.png" width="auto">
+
 <img src="5.png" width="auto">
 
 
