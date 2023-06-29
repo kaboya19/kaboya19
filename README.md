@@ -11,7 +11,7 @@ and finding new approaches.
 
 Languages and Tools:
 
-<img src="Adsız.png" width="auto">
+<img src="logo.png" width="auto">
 
 
 
