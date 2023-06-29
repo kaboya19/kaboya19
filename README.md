@@ -12,13 +12,9 @@ and finding new approaches.
 Languages and Tools:
 
 <img src="1.png" width="auto">
-
 <img src="2.png" width="auto">
-
 <img src="3.png" width="auto">
-
 <img src="4.png" width="auto">
-
 <img src="5.png" width="auto">
 
 
