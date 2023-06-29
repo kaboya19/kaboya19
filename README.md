@@ -15,5 +15,5 @@ Languages and Tools:
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" width="auto">
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" width="auto">
 
-[![Bora's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaboya19)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaboya19)](https://github.com/anuraghazra/github-readme-stats)
 
