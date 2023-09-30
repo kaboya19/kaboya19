@@ -7,7 +7,7 @@
 and finding new approaches.
 
 - 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=kaboya19&show_icons=true&theme=gradient)
+
 
 Languages and Tools:
 
