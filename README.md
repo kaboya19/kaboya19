@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at Istanbul Technical University,Mathematics Engineering.
 - 🌱 I’m currently working as Business Intelligence Intern.
-- 👯 I’m a new data scientist.Also I like dealing with financial data, following the economic agenda and visualizing them
+- 👯 I’m a new data scientist.Also I love working with financial data, following the economic agenda and visualizing them
 and finding new approaches.
 
 - 
