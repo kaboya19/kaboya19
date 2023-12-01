@@ -2,6 +2,7 @@
 &nbsp;
 
 - 🔭 I’m currently studying at Istanbul Technical University,Mathematics Engineering.
+- Inflation Forecast Streamlit:https://bit.ly/strenflasyon
 
 
 
