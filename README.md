@@ -17,6 +17,7 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>
 <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" height="40" /></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://www.gstatic.com/devrel-devsite/prod/vad6bef05f1c1d3cacb007960942dc48893aaf1a38ae980a20397fbe9c6e1061d/tensorflow/images/lockup.svg" alt="Tensorflow" height="40" /></a>
+<a href="https://www.pytorch.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/2560px-PyTorch_logo_black.svg.png" alt="Tensorflow" height="40" /></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" height="40" /></a>
 <a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://matplotlib.org/_static/logo_dark.svg" alt="Matplotlib" height="35" /></a>
 <a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="35" /></a>
