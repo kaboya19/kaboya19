@@ -12,7 +12,7 @@
 
 <table><tr><td valign="top" width="30%">
 
-### Programming  
+### Programming Skills  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>
 <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" height="40" /></a>
@@ -26,8 +26,6 @@
 <a href="https://selenium-python.readthedocs.io/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" height="40" /></a>
 <a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.svg" alt="Streamlit" height="50" /></a>
 <a href="https://www.nltk.org/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="NLTK" height="50" /></a>
-<a href="https://textblob.readthedocs.io/en/dev/" target="_blank"><img style="margin: 10px" src="https://diamond-thumbnails.s3.us-west-2.amazonaws.com/thinkbigcms/Product/logo/0643d8c9-2d6f-4305-8733-cd96b8557578.png?hash=350304961fe86c1de39bf5fbc025f1ea" alt="TextBlob" height="50" /></a>
-<a href="https://radimrehurek.com/gensim/" target="_blank"><img style="margin: 10px" src="https://radimrehurek.com/gensim/_images/gensim_logo_positive_complete_tb.png" alt="Gensim" height="50" /></a>
 <a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="Spark" height="50" /></a>
 <a href="https://geopandas.org/en/stable/" target="_blank"><img style="margin: 10px" src="https://geopandas.org/en/stable/_static/geopandas_logo_web.svg" alt="GeoPandas" height="50" /></a>
 </div>
