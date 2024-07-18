@@ -2,7 +2,7 @@
 &nbsp;
 
 
-- Inflation Forecast Streamlit:https://bit.ly/trinflation
+
 
 
 
